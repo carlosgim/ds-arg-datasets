@@ -15,6 +15,7 @@ Nacional
 --------
 
 * `INDEC <http://www.indec.gob.ar/>`_
+* `Ministerio de Hacienda <https://www.minhacienda.gob.ar/datos/>`_
 
 Clima
 -----
