@@ -16,6 +16,8 @@ Nacional
 
 * `INDEC <http://www.indec.gob.ar/>`_
 * `Ministerio de Hacienda <https://www.minhacienda.gob.ar/datos/>`_
+* `Ministerio de Modernización: Presidencia de la Nación <http://datos.gob.ar>`_
+* `Ministerio de Transporte <https://servicios.transporte.gob.ar/gobierno_abierto/>`_
 
 Clima
 -----
